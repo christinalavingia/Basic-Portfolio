@@ -41,7 +41,6 @@ a:visited {
 
 body {
     background-image: url("../images/wavy-dots.png");
-    height: 550px;
 }
 
 article {
@@ -127,9 +126,9 @@ img {
 footer {
     border-top: 8px solid #4aaaa5;
     background-color: #666;
-    height: 50px;
     text-align: center;
-    margin-top: 125px;  
+    height: 60px;
+    margin-top: 115px;  
 }
 
 #footer {
